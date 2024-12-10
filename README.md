@@ -1,7 +1,3 @@
-## [watch example](https://youtu.be/Ne9AgqU6scE)
-
-
-
 # 🎮 Tic-Tac-Toe with SFML  
 
 Welcome to **Tic-Tac-Toe**, a fun and simple game made using **SFML (Simple and Fast Multimedia Library)**! 🛠️ This project is all about bringing the classic game to life with graphics, interactivity, and some playful bot action.  
@@ -43,12 +39,12 @@ Welcome to **Tic-Tac-Toe**, a fun and simple game made using **SFML (Simple and 
      g++ -o tictactoe main.cpp -lsfml-graphics -lsfml-window -lsfml-system  
      ```  
 
-4. **Run the Game**:  
-   - Execute the program and dive into the fun! 🎉  
+4. **Run the Game**: 
+   - Execute the program and dive into the fun! 🎉                 
      ```bash  
      ./tictactoe  
      ```  
-
+[![Watch the video](https://img.youtube.com/vi/Ne9AgqU6scE/0.jpg)](https://youtu.be/Ne9AgqU6scE)
 ---
 
 ## 🎮 How to Play  
@@ -88,3 +84,4 @@ Let’s make this game even cooler together! 🚀
 ---  
 
 This version keeps things friendly and encourages creativity while letting others know your textures will improve in the future. 😊
+
